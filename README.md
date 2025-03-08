@@ -1,8 +1,8 @@
 ### **Loan Approval Api App**
 
-**Version** 7.0
+**Laravel Version** 7.0
 
-This app is a API app that will provide APIS for creation and approval of loans.
+This app is a API app that will provide APIs for creation and approval of loans.
 
 ### **Project setup**
 
